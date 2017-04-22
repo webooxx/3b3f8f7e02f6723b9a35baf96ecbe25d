@@ -1,0 +1,54 @@
+.box a {
+  text-decoration:none;
+  border-radius: 3px;
+}
+.box a:hover{
+  background: blue;
+}
+.box{
+  width: 820px;
+  height: auto;
+  min-height: 300px;
+  margin: 20px auto;
+  padding: 100px;
+  border:1px solid #ccc;
+  border-radius: 5px;
+
+}
+.view-init{
+  padding-bottom: 300px;
+}
+.view-init .button{
+  display: inline-block;
+  width: 300px;
+  background:darkblue;
+  line-height: 40px;
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+}
+.view-init  a{
+  position: relative;
+}
+.view-init img{
+  width: 280px;
+  position: absolute;
+  left: 0;
+  top: 50px;
+}
+
+.view_form label{
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  position: relative;
+}
+
+.view_form  .input{
+  position: absolute;
+  left:100px;
+  display: block;
+  top: 10px;
+  height: 20px;
+  line-height:
+}
